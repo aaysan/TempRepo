@@ -1,0 +1,1 @@
+aligned/somename/tmp.png 162 82 288 232

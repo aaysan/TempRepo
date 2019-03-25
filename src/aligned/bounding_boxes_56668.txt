@@ -1,0 +1,1 @@
+aligned/somename/tmp.png 768 777 1456 1633
